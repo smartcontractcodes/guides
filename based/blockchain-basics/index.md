@@ -11,7 +11,7 @@ underlying concepts. These articles are meant to be a relatively high level
 overview of the core concepts, and most are part of larger hubs of articles in
 the event you need to dive deeper into a specific topic.
 
-Geeks for Geeks has a few sets of articles that are good starting points. This
+GeeksforGeeks has a few sets of articles that are good starting points. This
 will give a background in how to understand the way blockchain tech works. Learn
 [a basic understanding of computer networking](https://www.geeksforgeeks.org/basics-computer-networking/#) (30 min)
 
@@ -24,7 +24,7 @@ networking is essential.
 [What is Peer to Peer Process](https://www.geeksforgeeks.org/what-is-p2p-peer-to-peer-process/) (20 min)
 
 The specific type of network that a blockchain runs on is Peer to Peer. This is
-from the blockchain knowledge series on Geeks for Geeks, which again is worth
+from the blockchain knowledge series on GeeksforGeeks, which again is worth
 diving into fully at some point.
 
 [Blockchain Cryptography](https://www.geeksforgeeks.org/cryptography-in-blockchain/) (20 min)
